@@ -1,0 +1,6 @@
+USA~~~200000
+Japan~~~127000
+Germany~~~500890
+South-Africa~~~345678
+Mexico~~~780000
+Canada~~~35466.0
